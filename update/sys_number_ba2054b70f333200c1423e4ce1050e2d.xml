@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_70383_loaner_req_loaner_request">x_70383_loaner_req_loaner_request</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>LNR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>bruno.fernandes</sys_created_by>
+        <sys_created_on>2017-07-13 08:46:00</sys_created_on>
+        <sys_id>ba2054b70f333200c1423e4ce1050e2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR</sys_name>
+        <sys_package display_value="Loaner Request" source="x_70383_loaner_req">707e84330f333200c1423e4ce1050e89</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
+        <sys_update_name>sys_number_ba2054b70f333200c1423e4ce1050e2d</sys_update_name>
+        <sys_updated_by>bruno.fernandes</sys_updated_by>
+        <sys_updated_on>2017-07-13 08:46:00</sys_updated_on>
+    </sys_number>
+</record_update>
