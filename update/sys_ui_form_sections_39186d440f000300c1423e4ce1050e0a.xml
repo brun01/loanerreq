@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="39186d440f000300c1423e4ce1050e0a" sys_domain="global" table="sc_cloud_rsrc_cat_item" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sc_cloud_rsrc_cat_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-14 09:48:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39186d440f000300c1423e4ce1050e0a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_cloud_rsrc_cat_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_70383_loaner_req">707e84330f333200c1423e4ce1050e89</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
+            <sys_update_name>sys_ui_form_sections_39186d440f000300c1423e4ce1050e0a</sys_update_name>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-14 09:48:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Item Designer" name="sc_cat_item_designer">f5a795fceb3211003623666cd206fe19</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

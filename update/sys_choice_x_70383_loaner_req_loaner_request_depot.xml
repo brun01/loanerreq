@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="depot" table="x_70383_loaner_req_loaner_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New York</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:41:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>140685bf0f733200c1423e4ce1050ec6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:41:13</sys_updated_on>
+            <value>ny</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:41:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>100685bf0f733200c1423e4ce1050ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:41:13</sys_updated_on>
+            <value>london</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buenos Aires</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:41:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>580685bf0f733200c1423e4ce1050ec9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:41:13</sys_updated_on>
+            <value>ba</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Santa Clara</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:41:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>900685bf0f733200c1423e4ce1050ecb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:41:13</sys_updated_on>
+            <value>sc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Singapore</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:41:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d80685bf0f733200c1423e4ce1050ecc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:41:13</sys_updated_on>
+            <value>singapore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sydney</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:41:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>140685bf0f733200c1423e4ce1050ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:41:13</sys_updated_on>
+            <value>sydney</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:41:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c0685bf0f733200c1423e4ce1050ecf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:41:13</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>depot</element>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:41:13</sys_created_on>
+            <sys_id>dd7c9a580f480300c1423e4ce1050e0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>depot</sys_name>
+            <sys_package display_value="Loaner Request" source="x_70383_loaner_req">707e84330f333200c1423e4ce1050e89</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
+            <sys_update_name>sys_choice_x_70383_loaner_req_loaner_request_depot</sys_update_name>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:41:13</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
