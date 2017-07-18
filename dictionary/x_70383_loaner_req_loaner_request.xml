@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Loaner Request" max_length="40" name="x_70383_loaner_req_loaner_request" type="collection"/>
+    <element extends="task" label="Loaner Request" max_length="40" name="x_70383_loaner_req_loaner_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Item type" mandatory="true" max_length="40" name="u_item_type" type="string">
+            <choice>
+                <element label="Laptop" sequence="0" value="cmdb_ci_laptop"/>
+                <element label="Mobile" sequence="1" value="cmdb_ci_mobile_device"/>
+                <element label="Projector" sequence="2" value="cmdb_ci_projector"/>
+            </choice>
+        </element>
+        <element label="Pick up reminder" max_length="40" name="u_pick_up_reminder" type="glide_date_time"/>
+        <element label="Requested for" mandatory="true" max_length="32" name="u_requestedfor" reference="sys_user" type="reference"/>
+    </element>
 </database>

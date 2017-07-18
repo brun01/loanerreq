@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Loaner Request">5cbb5e010f4c0300c1423e4ce1050e67</category>
+        <order>300</order>
+        <property display_value="x_70383_loaner_req.overdue.remindtime" name="x_70383_loaner_req.overdue.remindtime">6b5c56410f4c0300c1423e4ce1050ef5</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>bruno.fernandes</sys_created_by>
+        <sys_created_on>2017-07-17 16:12:26</sys_created_on>
+        <sys_id>91bc9a410f4c0300c1423e4ce1050e6f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_70383_loaner_req.overdue.remindtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_70383_loaner_req">707e84330f333200c1423e4ce1050e89</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_91bc9a410f4c0300c1423e4ce1050e6f</sys_update_name>
+        <sys_updated_by>bruno.fernandes</sys_updated_by>
+        <sys_updated_on>2017-07-17 16:12:56</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

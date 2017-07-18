@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Loaner Task" language="en" table="x_70383_loaner_req_loaner_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Loaner Task</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_task</name>
+            <plural>Loaner Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-17 15:41:48</sys_created_on>
+            <sys_id>acb5164d0f0c0300c1423e4ce1050ed7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loaner Task</sys_name>
+            <sys_package display_value="Loaner Request" source="x_70383_loaner_req">707e84330f333200c1423e4ce1050e89</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
+            <sys_update_name>sys_documentation_x_70383_loaner_req_loaner_task__en</sys_update_name>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-17 15:41:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
