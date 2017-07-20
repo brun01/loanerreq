@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>53ac43150f000300c1423e4ce1050e8f</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>49a4d4860f404300c1423e4ce1050ecd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_requestedfor</element>
             <position>1</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>1bac43150f000300c1423e4ce1050e8f</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>c9a4d4860f404300c1423e4ce1050ecd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>cmdb_ci</element>
             <position>2</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>9bac43150f000300c1423e4ce1050e8f</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>4da4d4860f404300c1423e4ce1050ecd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>1fac43150f000300c1423e4ce1050e8f</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>cda4d4860f404300c1423e4ce1050ecd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -61,27 +61,27 @@
             <element>state</element>
             <position>4</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>9fac43150f000300c1423e4ce1050e8f</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>41a4d4860f404300c1423e4ce1050ece</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>start_date</element>
+            <element>u_start_date</element>
             <position>5</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>13ac43150f000300c1423e4ce1050e90</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>c1a4d4860f404300c1423e4ce1050ece</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>end_date</element>
             <position>6</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>93ac43150f000300c1423e4ce1050e90</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>45a4d4860f404300c1423e4ce1050ece</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>u_item_type</element>
             <position>7</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>17ac43150f000300c1423e4ce1050e90</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>c5a4d4860f404300c1423e4ce1050ece</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>depot</element>
             <position>8</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>97ac43150f000300c1423e4ce1050e90</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>49a4d4860f404300c1423e4ce1050ece</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>location_to_be_used</element>
             <position>9</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>1bac43150f000300c1423e4ce1050e90</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>c9a4d4860f404300c1423e4ce1050ece</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>u_other</element>
             <position>10</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>9bac43150f000300c1423e4ce1050e90</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>4da4d4860f404300c1423e4ce1050ece</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>u_pick_up_reminder</element>
             <position>11</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>1fac43150f000300c1423e4ce1050e90</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>cda4d4860f404300c1423e4ce1050ece</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>.end_split</element>
             <position>12</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>9fac43150f000300c1423e4ce1050e90</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>41a4d4860f404300c1423e4ce1050ecf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>short_description</element>
             <position>13</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>13ac43150f000300c1423e4ce1050e91</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>c1a4d4860f404300c1423e4ce1050ecf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -201,13 +201,13 @@
             <element>description</element>
             <position>14</position>
             <sys_created_by>bruno.fernandes</sys_created_by>
-            <sys_created_on>2017-07-18 14:20:30</sys_created_on>
-            <sys_id>93ac43150f000300c1423e4ce1050e91</sys_id>
+            <sys_created_on>2017-07-20 08:51:52</sys_created_on>
+            <sys_id>45a4d4860f404300c1423e4ce1050ecf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="Default view">4d8190f70f333200c1423e4ce1050e01</sys_ui_section>
             <sys_updated_by>bruno.fernandes</sys_updated_by>
-            <sys_updated_on>2017-07-18 14:20:30</sys_updated_on>
+            <sys_updated_on>2017-07-20 08:51:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

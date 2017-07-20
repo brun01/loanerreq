@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-tempx_70383_loaner_req_loaner_requestbruno.fernandes</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>bruno.fernandes</sys_created_by>
+        <sys_created_on>2017-07-20 09:09:58</sys_created_on>
+        <sys_id>d6c8144a0f404300c1423e4ce1050e1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>bruno.fernandes</sys_updated_by>
+        <sys_updated_on>2017-07-20 09:09:58</sys_updated_on>
+        <title>Rpt-tempx_70383_loaner_req_loaner_requestbruno.fernandes</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

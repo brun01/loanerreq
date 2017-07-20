@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Equipment Loaner Request">a2a01a900f480300c1423e4ce1050e2c</sc_cat_item>
+        <sc_cat_item display_value="Loaner Request">972410460f404300c1423e4ce1050ee3</sc_cat_item>
         <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>bruno.fernandes</sys_created_by>
-        <sys_created_on>2017-07-15 07:26:32</sys_created_on>
-        <sys_id>4a215e900f480300c1423e4ce1050e22</sys_id>
+        <sys_created_on>2017-07-20 08:49:51</sys_created_on>
+        <sys_id>972490860f404300c1423e4ce1050efa</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Service Catalog.Equipment Loaner Request</sys_name>
+        <sys_name>Service Catalog.Loaner Request</sys_name>
         <sys_package display_value="Loaner Request" source="x_70383_loaner_req">707e84330f333200c1423e4ce1050e89</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
-        <sys_update_name>sc_cat_item_catalog_4a215e900f480300c1423e4ce1050e22</sys_update_name>
+        <sys_update_name>sc_cat_item_catalog_972490860f404300c1423e4ce1050efa</sys_update_name>
         <sys_updated_by>bruno.fernandes</sys_updated_by>
-        <sys_updated_on>2017-07-15 07:26:32</sys_updated_on>
+        <sys_updated_on>2017-07-20 08:49:51</sys_updated_on>
     </sc_cat_item_catalog>
 </record_update>
