@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_70383_loaner_req_loaner_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-17 15:51:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19081a8d0f0c0300c1423e4ce1050ede</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-17 15:51:57</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-17 15:51:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55081a8d0f0c0300c1423e4ce1050ee0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-17 15:51:57</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_70383_loaner_req_loaner_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-17 15:51:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11085e8d0f0c0300c1423e4ce1050ee3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-17 15:51:57</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_70383_loaner_req_loaner_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-17 15:51:57</sys_created_on>
+            <sys_id>51081a8d0f0c0300c1423e4ce1050ee0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Loaner Request" source="x_70383_loaner_req">707e84330f333200c1423e4ce1050e89</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
+            <sys_update_name>sys_choice_x_70383_loaner_req_loaner_task_state</sys_update_name>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-17 15:51:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="20b8c5ff0f733200c1423e4ce1050ea5" sys_domain="global" table="x_70383_loaner_req_loaner_request" version="3" view="Mobile">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:53:44</sys_created_on>
+            <sys_id>3fd80dff0f733200c1423e4ce1050e2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="8ed84342e00332003399186128118f59">20b8c5ff0f733200c1423e4ce1050ea5</sys_ui_section>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:53:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <position>1</position>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:53:44</sys_created_on>
+            <sys_id>bfd80dff0f733200c1423e4ce1050e2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="8ed84342e00332003399186128118f59">20b8c5ff0f733200c1423e4ce1050ea5</sys_ui_section>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:53:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:53:44</sys_created_on>
+            <sys_id>33d80dff0f733200c1423e4ce1050e2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="8ed84342e00332003399186128118f59">20b8c5ff0f733200c1423e4ce1050ea5</sys_ui_section>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:53:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>3</position>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:53:44</sys_created_on>
+            <sys_id>b3d80dff0f733200c1423e4ce1050e2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="8ed84342e00332003399186128118f59">20b8c5ff0f733200c1423e4ce1050ea5</sys_ui_section>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:53:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>4</position>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:53:44</sys_created_on>
+            <sys_id>37d80dff0f733200c1423e4ce1050e2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="8ed84342e00332003399186128118f59">20b8c5ff0f733200c1423e4ce1050ea5</sys_ui_section>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:53:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_barcode</element>
+            <position>5</position>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:53:44</sys_created_on>
+            <sys_id>b7d80dff0f733200c1423e4ce1050e2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="8ed84342e00332003399186128118f59">20b8c5ff0f733200c1423e4ce1050ea5</sys_ui_section>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:53:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>6</position>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:53:44</sys_created_on>
+            <sys_id>3bd80dff0f733200c1423e4ce1050e2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_70383_loaner_req_loaner_request" sys_domain="global" view="8ed84342e00332003399186128118f59">20b8c5ff0f733200c1423e4ce1050ea5</sys_ui_section>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:53:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_70383_loaner_req_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>bruno.fernandes</sys_created_by>
+            <sys_created_on>2017-07-13 12:52:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20b8c5ff0f733200c1423e4ce1050ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_70383_loaner_req_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_70383_loaner_req">707e84330f333200c1423e4ce1050e89</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">707e84330f333200c1423e4ce1050e89</sys_scope>
+            <sys_update_name>sys_ui_section_20b8c5ff0f733200c1423e4ce1050ea5</sys_update_name>
+            <sys_updated_by>bruno.fernandes</sys_updated_by>
+            <sys_updated_on>2017-07-13 12:52:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Mobile" name="Mobile">8ed84342e00332003399186128118f59</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
